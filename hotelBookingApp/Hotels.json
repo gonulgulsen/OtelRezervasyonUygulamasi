@@ -1,0 +1,184 @@
+[
+    {
+      "id": 1,
+      "ad": "Swissotel Büyük Efes İzmir",
+      "ozellikler": ["Wifi", "Otopark", "Spa","Havuz", "Restoran", "Fitness"],
+      "fotoURL": "https://images.odamax.com/img/1024x768/odamax/image/upload/eiotkjibrkgldpfjsw6z.jpg",
+      "odalar": [
+        {
+            
+            "odaAdi": "Standart Oda",
+            "odaOzellikler": ["TV", "Klima", "Minibar"],
+            "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231110122634_0.jpg",
+            "odaFiyat" : "5.450 TL"
+        },
+        {
+         
+            "odaAdi": "Deluxe Oda",
+            "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+            "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+            "odaFiyat" : "7.329 TL"
+        },
+        {
+    
+          "odaAdi": "Deluxe Oda - Kahvaltı Dahil",
+          "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+          "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+          "odaFiyat" : "8.457 TL"
+      }
+       
+    ]
+    },
+    {
+      "id": 2,
+      "ad": "Doubletree By Hilton Kuşadası",
+      "ozellikler": ["Havuz", "Restoran", "Fitness"],
+      "fotoURL": "https://images.odamax.com/odm/r7e8u7pa9uwrtldcgq4m.jpg",
+      "odalar": [
+        {
+            
+            "odaAdi": "Standart Oda",
+            "odaOzellikler": ["TV", "Klima", "Minibar"],
+            "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231110122634_0.jpg",
+            "odaFiyat" : "5.450 TL"
+        },
+        {
+         
+            "odaAdi": "Deluxe Oda",
+            "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+            "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+            "odaFiyat" : "7.329 TL"
+        },
+        {
+    
+          "odaAdi": "Deluxe Oda - Kahvaltı Dahil",
+          "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+          "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+          "odaFiyat" : "8.457 TL"
+      }
+       
+    ]
+    },
+    {
+        "id": 3,
+        "ad": "Pine Bay Holiday Resort",
+        "ozellikler": ["Havuz", "Restoran", "Fitness"],
+        "fotoURL": "https://images.odamax.com/odm/ejhqkgskwf0utbetjb2n.jpg",
+        "odalar": [
+          {
+              
+              "odaAdi": "Standart Oda",
+              "odaOzellikler": ["TV", "Klima", "Minibar"],
+              "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231110122634_0.jpg",
+              "odaFiyat" : "5.450 TL"
+          },
+          {
+           
+              "odaAdi": "Deluxe Oda",
+              "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+              "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+              "odaFiyat" : "7.329 TL"
+          },
+          {
+      
+            "odaAdi": "Deluxe Oda - Kahvaltı Dahil",
+            "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+            "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+            "odaFiyat" : "8.457 TL"
+        }
+         
+      ]
+    },
+  {
+        "id": 4,
+        "ad": "Divan Cave House Hotel",
+        "ozellikler": ["Havuz", "Restoran", "Fitness"],
+        "fotoURL": "https://d3m404n3ahyqc3.cloudfront.net/images/product/1/2/0/2/2/408731/divan_cave_house_408731.jpg",
+        "odalar": [
+          {
+              
+              "odaAdi": "Standart Oda",
+              "odaOzellikler": ["TV", "Klima", "Minibar"],
+              "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231110122634_0.jpg",
+              "odaFiyat" : "5.450 TL"
+          },
+          {
+           
+              "odaAdi": "Deluxe Oda",
+              "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+              "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+              "odaFiyat" : "7.329 TL"
+          },
+          {
+      
+            "odaAdi": "Deluxe Oda - Kahvaltı Dahil",
+            "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+            "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+            "odaFiyat" : "8.457 TL"
+        }
+         
+      ]
+    },
+    {
+        "id": 5,
+        "ad": "Uslu Hotel Royal Yachting",
+        "ozellikler": ["Havuz", "Restoran", "Fitness"],
+        "fotoURL": "https://images.odamax.com/odm/Uslu_Hotel_Royal_Yachting_20230330150810_0.jpg",
+        "odalar": [
+          {
+              
+              "odaAdi": "Standart Oda",
+              "odaOzellikler": ["TV", "Klima", "Minibar"],
+              "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231110122634_0.jpg",
+              "odaFiyat" : "5.450 TL"
+          },
+          {
+           
+              "odaAdi": "Deluxe Oda",
+              "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+              "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+              "odaFiyat" : "7.329 TL"
+          },
+          {
+      
+            "odaAdi": "Deluxe Oda - Kahvaltı Dahil",
+            "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+            "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+            "odaFiyat" : "8.457 TL"
+        }
+         
+      ]
+    },
+    {
+        "id": 6,
+        "ad": "Suadiye Hotel",
+        "ozellikler": ["Havuz", "Restoran", "Fitness"],
+        "fotoURL": "https://images.odamax.com/odm/xk5bhovexn8tlq1o0uig.jpg",
+        "odalar": [
+          {
+              
+              "odaAdi": "Standart Oda",
+              "odaOzellikler": ["TV", "Klima", "Minibar"],
+              "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231110122634_0.jpg",
+              "odaFiyat" : "5.450 TL"
+          },
+          {
+           
+              "odaAdi": "Deluxe Oda",
+              "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+              "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+              "odaFiyat" : "7.329 TL"
+          },
+          {
+      
+            "odaAdi": "Deluxe Oda - Kahvaltı Dahil",
+            "odaOzellikler": ["TV", "Klima", "Jakuzi", "Balkon","Bahçe Manzaralı"],
+            "odaFotoURL": "https://images.odamax.com/img/800x600/odamax/image/upload/Swissotel_Buyuk_Efes_Izmir_20231102172959_1.jpg",
+            "odaFiyat" : "8.457 TL"
+        }
+         
+      ]
+     }
+
+  ]
+  
